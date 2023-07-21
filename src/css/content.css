@@ -1,0 +1,24 @@
+.homeContent {
+    text-align: center;
+}
+
+.email_span {
+    margin: 20px;
+    padding: 10px;
+}
+
+#email-input {
+    width: 70vw;
+    height: 40px;
+    border-radius: 16px;
+    box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.05);
+}
+
+#email-submit-button {
+    background-color: #55BDB3;
+    border-radius: 16px;
+    color: white;
+    height: 40px;
+    width: 10vw;
+    margin-left: 10px;
+}
