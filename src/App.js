@@ -26,7 +26,8 @@ function App() {
   return (
     <>
       <div className='container'>
-        <nav>
+        {/**
+         *   <nav>
           <ul>
             <a>
               <img src={logo} />
@@ -40,17 +41,23 @@ function App() {
             <a>
               <button onClick={() => scrollToSection(section_process)}>App Tour</button>
             </a>
+               <a>
+          <button onClick={() => scrollToSection(section_about)}>About</button>
+        </a>
+      </ul>
+    </nav >
+         */}
+
+        {/*   
 
             <a>
               <button onClick={() => scrollToSection(section_feedback)}>Feedback</button>
             </a>
-            <a>
-              <button onClick={() => scrollToSection(section_about)}>About</button>
-            </a>
-          </ul>
-        </nav>
 
-      </div>
+*/ }
+
+
+      </div >
 
 
 
@@ -58,21 +65,26 @@ function App() {
         <Home />
       </section>
 
-      <section ref={section_service} id="section_service">
-        <Service />
-      </section>
-
       <section ref={section_process} id="section_process">
         <Process />
       </section>
 
-      <section ref={section_feedback} id="section_feedback">
+
+      {/**
+       * 
+      <section ref={section_service} id="section_service">
+        <Service />
+      </section>
+       *     <section ref={section_feedback} id="section_feedback">
         <Feedback />
       </section>
 
       <section ref={section_about} id="section_about">
         <About />
       </section>
+       * 
+       */}
+
     </>
 
 
