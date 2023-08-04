@@ -41,25 +41,22 @@ function App() {
             <a>
               <button onClick={() => scrollToSection(section_process)}>App Tour</button>
             </a>
-               <a>
-          <button onClick={() => scrollToSection(section_about)}>About</button>
-        </a>
-      </ul>
-    </nav >
+            <a>
+              <button onClick={() => scrollToSection(section_about)}>About</button>
+            </a>
+        </ul>
+      </nav >
          */}
 
-        {/*   
+        {/*
 
             <a>
               <button onClick={() => scrollToSection(section_feedback)}>Feedback</button>
             </a>
-
-*/ }
+        */ }
 
 
       </div >
-
-
 
       <section ref={section_home} id="section_home">
         <Home />
@@ -71,7 +68,7 @@ function App() {
 
 
       {/**
-       * 
+       *
       <section ref={section_service} id="section_service">
         <Service />
       </section>
