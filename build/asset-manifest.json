@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tindoori-react/static/css/main.79aecfba.css",
-    "main.js": "/tindoori-react/static/js/main.254ef333.js",
+    "main.js": "/tindoori-react/static/js/main.9b425238.js",
     "static/js/787.feec0d1c.chunk.js": "/tindoori-react/static/js/787.feec0d1c.chunk.js",
     "static/media/comments.png": "/tindoori-react/static/media/comments.8a97e4461a8cda3c0107.png",
     "static/media/tindoori-logo.svg": "/tindoori-react/static/media/tindoori-logo.f85cbf0d287bfa1041884bacd553c37c.svg",
@@ -9,11 +9,11 @@
     "static/media/linkedinlogo.svg": "/tindoori-react/static/media/linkedinlogo.940f3904ae49ae95b9364a253b589f55.svg",
     "index.html": "/tindoori-react/index.html",
     "main.79aecfba.css.map": "/tindoori-react/static/css/main.79aecfba.css.map",
-    "main.254ef333.js.map": "/tindoori-react/static/js/main.254ef333.js.map",
+    "main.9b425238.js.map": "/tindoori-react/static/js/main.9b425238.js.map",
     "787.feec0d1c.chunk.js.map": "/tindoori-react/static/js/787.feec0d1c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79aecfba.css",
-    "static/js/main.254ef333.js"
+    "static/js/main.9b425238.js"
   ]
 }
